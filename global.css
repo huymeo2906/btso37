@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+:root {
+    /* fonts */
+    --text-md: "Maven Pro";
+    --title-sm: Asap;
+    --subtitle: Inconsolata;
+
+    /* font sizes */
+    --text-md-size: 16px;
+    --font-size-5xl: 24px;
+    --font-size-lgi: 19px;
+    --subtitle-size: 20px;
+    --text-sm-size: 14px;
+    --title-lg-size: 56px;
+
+    /* Colors */
+    --base-gray-200: #16181d;
+    --base-gray-100: #0d0e11;
+    --base-gray-300: #292c34;
+    --base-gray-500: #c0c4ce;
+    --base-gray-600: #e2e4e9;
+    --main-purple: #bb72e9;
+    --main-red: #e3646e;
+    --base-gray-400: #878ea1;
+
+    /* Gaps */
+    --gap-base: 16px;
+    --gap-xs: 12px;
+    --gap-5xs: 8px;
+    --gap-37xl: 56px;
+    --gap-9xl: 28px;
+    --gap-5xl: 24px;
+    --gap-xl: 20px;
+
+    /* Paddings */
+    --padding-xl: 20px;
+    --padding-101xl: 120px;
+    --padding-38xl: 57px;
+    --padding-59xl: 78px;
+    --padding-xs: 12px;
+    --padding-mid: 17px;
+    --padding-9xs: 4px;
+    --padding-12xs: 1px;
+    --padding-18xl: 37px;
+    --padding-5xs: 8px;
+    --padding-base: 16px;
+    --padding-11xs: 2px;
+
+    /* Border radiuses */
+    --br-5xs: 8px;
+    --br-xs: 12px;
+    --br-980xl: 999px;
+}
